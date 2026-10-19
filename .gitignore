@@ -1,0 +1,6 @@
+race
+race_fix
+leak
+leak_fix
+*.o
+out.txt
